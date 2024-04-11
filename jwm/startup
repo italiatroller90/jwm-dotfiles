@@ -1,0 +1,7 @@
+<JWM>
+     <StartupCommand>compton --backend glx&amp;</StartupCommand>
+     <StartupCommand>pnmixer&amp;</StartupCommand>
+     <StartupCommand>ulauncher</StartupCommand>
+     <StartupCommand>plank</StartupCommand>
+     <StartupCommand>conky</StartupCommand>
+</JWM>

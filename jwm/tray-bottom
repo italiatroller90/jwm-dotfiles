@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<JWM>
+   <Tray height="30" y="0">
+      <TrayButton icon="debian-swirl">
+         <Button mask="1">root:1</Button>
+         <Button mask="3">root:j</Button>
+      </TrayButton>
+      <Spacer width="5" />
+      <TaskList labeled="false" />
+      <Spacer width="5" />
+      <Dock />
+      <Pager labeled="true" />
+      <Spacer width="5" />
+      <Clock format="%l:%M %p">exec:jwmkit_calendar</Clock>
+   </Tray>
+</JWM>

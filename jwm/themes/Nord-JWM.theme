@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<JWM>
+   <WindowStyle>
+      <Font>JetBrains Mono-10:Bold:encoding=UTF-8</Font>
+      <Foreground>#eceff4</Foreground>
+      <Outline>#2e3440</Outline>
+      <Background>#2e3440</Background>
+      <Active>
+         <Foreground>#eceff4</Foreground>
+         <Outline>#2e3440</Outline>
+         <Background>#2e3440</Background>
+      </Active>
+   </WindowStyle>
+   <TrayStyle>
+      <Font>JetBrains Mono-10:Bold:antialias=true</Font>
+      <Foreground>#eceff4</Foreground>
+      <Outline>#2e3440</Outline>
+      <Background>#2e3440:#2e3440</Background>
+      <Active>
+         <Foreground>#eceff4</Foreground>
+         <Outline>#2e3440</Outline>
+         <Background>#2e3440:#2e3440</Background>
+      </Active>
+   </TrayStyle>
+   <TrayButtonStyle>
+      <Font>JetBrains Mono-10:Bold:encoding=UTF-8</Font>
+      <Foreground>#2e3440</Foreground>
+      <Outline>#4c566a</Outline>
+      <Background>#2e3440:#2e3440</Background>
+      <Active>
+         <Foreground>#2e3440</Foreground>
+         <Outline>#4c566a</Outline>
+         <Background>#2e3440:#2e3440</Background>
+      </Active>
+   </TrayButtonStyle>
+   <TaskListStyle showkill="false">
+      <Font>JetBrains Mono-10:Bold</Font>
+      <Foreground>#eceff4</Foreground>
+      <Background>#2e3440</Background>
+      <Active>
+         <Foreground>#eceff4</Foreground>
+         <Background>#2e3440</Background>
+      </Active>
+   </TaskListStyle>
+   <MenuStyle>
+      <Font>JetBrains Mono-10:Bold:encoding=UTF-8</Font>
+      <Foreground>#eceff4</Foreground>
+      <Background>#2e3440</Background>
+      <Active>
+         <Foreground>#eceff4</Foreground>
+         <Background>#2e3440:#2e3440</Background>
+      </Active>
+   </MenuStyle>
+   <PagerStyle>
+      <Font>JetBrains Mono-10:Bold</Font>
+      <Foreground>#eceff4</Foreground>
+      <Text>#eceff4</Text>
+      <Background>#4c566a</Background>
+      <Active>
+         <Foreground>#eceff4</Foreground>
+         <Background>#4c566a</Background>
+      </Active>
+   </PagerStyle>
+   <ClockStyle>
+      <Font>JetBrains Mono-10:Bold:antialias=true</Font>
+      <Foreground>#eceff4</Foreground>
+   </ClockStyle>
+</JWM>

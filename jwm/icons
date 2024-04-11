@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<JWM>
+   <IconPath>/usr/share/pixmaps/</IconPath>
+   <IconPath>/usr/share/pixmaps/jwmkit/</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/status</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/places</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/mimetypes</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/emotes</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/emblems</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/devices</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/categories</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/apps</IconPath>
+   <IconPath>/usr/share/icons/Papirus-Dark/32x32/actions</IconPath>
+</JWM>
